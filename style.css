@@ -302,5 +302,8 @@ footer p {
     justify-content: flex-end;
   }
 
+  footer p {
+    margin: 0;
+  }
 
 }
